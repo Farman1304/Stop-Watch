@@ -1,0 +1,53 @@
+body {
+    background-color: #e0e0e0;
+    
+    
+}
+.mainCont {
+    min-height: 500p;
+    width: 300px;
+    background-color: white;
+    border-radius: 15px;
+    padding-top: 50px !important;
+    padding-bottom: 30px !important;
+    overflow: hidden;
+
+ 
+
+}
+
+.timeStatus {
+    font-size: 3rem;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+}
+
+.stopWatchBtn {
+    width: 80px;
+    font-size: 0.85rem;
+}
+
+
+.stopWatch-head {
+    font-size: 2rem;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+
+
+.list-group-item {
+    font-size: xx-large;
+        
+}
+
+ul {
+  max-height: 150px;          
+  overflow-y: auto;
+  margin-top: 10px;
+  width: 100%;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  /* padding: 20px; */
+}
