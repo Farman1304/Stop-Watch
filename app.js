@@ -60,7 +60,7 @@ startButton.addEventListener('click' , function () {
 
 
             displayTime ()
-        }, 1);
+        }, 100);
 
 
     } else {
